@@ -1,4 +1,4 @@
-### Olá Eu sou o Leandro Perdoná ✋
+### Olá eu sou o Leandro Perdoná ✋
 
 ### Sou Programador Front End, atualmente estou aprendendo e criando projetos com: 
 
@@ -11,7 +11,7 @@
 
 ![leandroperdona GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroperdona&show_icons=true&theme=dracula)
 
-Descobri que sou apaixonado pela Programação, e desde então estou estudando para uma transcição de carreira! 
+Descobri que sou apaixonado pela Programação, e desde então estou estudando para uma transição de carreira! 
 
 ###  Contato:
 
