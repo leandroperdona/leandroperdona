@@ -1,11 +1,23 @@
-### Hi there 👋
+### Olá Eu sou o Leandro Perdoná ✋
 
-Olá, me chamo Leandro Perdoná  sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
-<br>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
+### Sou Programador Front End, atualmente estou aprendendo e criando projetos com: 
 
-[![Leandro stats](https://github-readme-stats.vercel.app/api?username=leandroperdona)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br/>
+<img  align="center"  alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img  align="center"  alt= "Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img  align="center"  alt= "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img  align="center"  alt= "React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroperdona)](https://github.com/anuraghazra/github-readme-stats)
+![leandroperdona GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroperdona&show_icons=true&theme=dracula)
+
+Descobri que sou apaixonado pela Programação, e desde então estou estudando para uma transcição de carreira! 
+
+###  Contato:
+
+<div style="display: inline_block"><br/>
+<a href="mailto:leandroperdona.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/leandro-perdoná-pcd-4178b214a>
+
+</div><br/>
