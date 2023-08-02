@@ -1,6 +1,8 @@
-### Olá eu sou o Leandro Perdoná ✋
+### Olá, eu sou Leandro Perdoná ✋
 
-### Sou Programador Front End, atualmente estou aprendendo e criando projetos com: 
+### Sou um entusiasta da programação e da tecnologia, buscando sempre aprender coisas novas e compartilhar conhecimento com a comunidade.  Meu interesse principal está em desenvolvimento web, e estou constantemente aprimorando minhas habilidades nessa área. 
+
+
 
 <div style="display: inline_block"><br/>
 <img  align="center"  alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
