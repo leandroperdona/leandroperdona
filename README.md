@@ -1,6 +1,6 @@
 ### Olá, eu sou Leandro Perdoná ✋
 
- ### Sou um entusiasta da programação e da tecnologia, buscando sempre aprender coisas novas e compartilhar conhecimento com a comunidade.  Meu interesse principal está em desenvolvimento web, e estou constantemente aprimorando minhas habilidades nessa área. 
+ ### Sou um entusiasta da programação e da tecnologia, buscando sempre aprender coisas novas. Meu interesse principal está em desenvolvimento web, e estou constantemente aprimorando minhas habilidades nessa área. 
 
 
 
